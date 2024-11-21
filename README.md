@@ -19,6 +19,8 @@
 - 📝 Support de l'encodage UTF-8
 - 🎨 Interface utilisateur avec retours visuels colorés
 
+![Capture d'écran](screenshot.png)
+
 ## 📋 Prérequis
 
 | Composant | Version/Détail |
